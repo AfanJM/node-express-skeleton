@@ -1,6 +1,6 @@
 # Node-Express-Skeleton
 
-Este repositorio es un template para iniciar un proyecto utilizando Node JS y Express. Está configurado para llevar a cabo una estructura inicial solida y modular.
+Este repositorio es un template para iniciar un proyecto utilizando Node JS, Express y TypeScript. Está configurado para llevar a cabo una estructura inicial solida y modular.
 
 ## Instalación
 
